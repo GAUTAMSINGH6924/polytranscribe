@@ -1,0 +1,64 @@
+SPEAKER_00: Hello
+SPEAKER_01: ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ ਜੀ।
+SPEAKER_00: ਹਾਂਜੀ ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ Sir।
+SPEAKER_01: ਮੈਮ ਆਹ ਜਿਹੜਾ ਤੁਹਾਡੇ face ਦਾ ਹੁੰਦਾ ਇਹ ਕਿੰਨੇ time ਦੇ ਹੋ ਜਾਂਦਾ ਜੀ?
+SPEAKER_00: Sorry ਸਰ ਦੁਬਾਰਾ repeat ਕਰੋਗੇ?
+SPEAKER_01: ਬੜਾ ਛਾਂ ਜਿਹੜੀ ਪਈ ਆ ਨਾ ਬੱਸ ਨਾ ਜਿਹੜੀ ਲਾਈਨ ਸੀ ਨਾ।
+SPEAKER_00: ਹਾਂ
+SPEAKER_00: ਹਾਂਜੀ ਹਾਂਜੀ।
+SPEAKER_01: ਕਿੰਨਾ time madam ਤੁਸੀਂ ਤਾਂ ਰਹਿੰਦੀ ਆ ਸਫਾਈ ਦਾ ਸਫਾਈ ਰਹਿੰਦੀ ਆ।
+SPEAKER_00: ਤੁਹਾਡੇ ਉੱਪਰ depend ਕਰਦਾ ਅਸੀਂ skin care ਦੇ ਨਾ products ਤੁਹਾਨੂੰ provide ਕਰਦੇ ਹਾਂ maintenance ਲਈ ਜੇ ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ use ਕਰਦੇ ਹੋ sir ਦੇਖੋ skin ਆਪਣੀ life time ਹੀ sir ਆਪਾਂ ਨੂੰ maintain ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਹੈਨਾ ਜੇ ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ maintain ਕਰੋਗੇ ਤਾਂ ਉਹ life time ਹੀ maintain ਰਹਿੰਦਾ sir
+SPEAKER_01: ਕਰਦੇ ਹੋ
+SPEAKER_01: ਜੀ
+SPEAKER_01: ਠੀਕ ਹੈ Ma'am.
+SPEAKER_00: ਹਾਂਜੀ ਇਦਾਂ ਦਾ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ ਕਿ 4 ਦਾ ਟਾਈਮ ਰਿਜ਼ਲਟ ਹੈ।
+SPEAKER_01: ਠੀਕ ਹੈ
+SPEAKER_01: Okay Okay।
+SPEAKER_00: ਹਾਂਜੀ
+SPEAKER_01: ਕਿੱਥੇ ਆਪਣਾ ਇਹ
+SPEAKER_00: Sir ਤੁਸੀਂ ਕਿੱਥੋਂ ਗੱਲ ਕਰ ਰਹੇ ਹੋ?
+SPEAKER_01: ਅਸੀਂ ਫਿਰ ਆਪਣਾ ਹੀ ਦੁਕਾਨ ਕਰ ਦਿੰਦੇ ਹਾਂ। ਆਪਣਾ ਯਾਰ Lahore ਲੱਗ ਗਏ।
+SPEAKER_00: ਫਲੋਰ ਦੇ ਲਾਗੇ ਠੀਕ ਹੈ ਸਰ। ਦੇਖੋ ਸਾਡੇ ਨਾ ਸਰ 4 ਜਗ੍ਹਾ 'ਤੇ ਕਲੀਨਿਕ ਹੈਗੇ ਨੇ ਵੈਸੇ ਤਾਂ Chandigarh, Ludhiana, Bathinda and Delhi। Jalandhar ਦੇ ਨੇੜੇ ਤੁਹਾਡਾ ਫਲੋਰ Jalandhar ਤੋਂ near by ਪੈਂਦਾ ਹੈ ਨਾ।
+SPEAKER_01: ਹਾਂਜੀ
+SPEAKER_01: Ludhiana ਦੇ ਇਲਾਕੇ ਹੀ ਹੈ ਜੀ।
+SPEAKER_00: ਹਾਂਜੀ Ludhiana ਦੇ ਵਿੱਚ ਸਾਡਾ clinic Ludhiana ਚ ਤਾਂ ਸਾਡਾ clinic ਹੈਗਾ sir Sarabha Nagar ਦੇ ਵਿੱਚ।
+SPEAKER_01: Ludhiana ਦੇ ਵਿੱਚ ਸਾਡਾ clinic
+SPEAKER_01: ਮੈਂ ਪਾ ਦੂੰ।
+SPEAKER_00: ਹਾਂਜੀ
+SPEAKER_01: location ਪਾ ਸਕਦੇ ਹੋ ਨਾ ਤੁਸੀਂ?
+SPEAKER_00: ਹਾਂਜੀ ਹਾਂਜੀ location ਕਰ ਦਿਆਂਗੀ sir ਤੁਹਾਨੂੰ process guide ਕਰ ਦਿੰਦੀ ਹਾਂ ਮੈਂ ਦੇਖੋ ਸਾਡਾ ਨਾ appointment base 'ਤੇ ਕੰਮ ਹੈ sir ਤਾਂ appointment ਪਹਿਲਾਂ book ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ ਜੇ ਤੁਸੀਂ visit ਕਰਨਾ ਹੈ sir ਠੀਕ ਹੈ ਤਾਂ ਤੁਸੀਂ ਮੈਨੂੰ ਦੱਸ ਦੋਗੇ sir ਤੁਸੀਂ ਕਦੋਂ ਸਾਡੇ clinic visit ਕਰਨਾ ਆ
+SPEAKER_01: ਚਾਹੀਦੀ ਹੈ
+SPEAKER_01: ਦੱਸ ਦੋਗੇ sir ਤੁਸੀਂ ਕਦੋਂ
+SPEAKER_01: ਮੈਂ ਤੁਹਾਨੂੰ ਦੱਸ ਦਾਂ ਕਿ ਤੁਸੀਂ ਇੱਥੇ ਕਰਾਉਣਾ ਮੈਂ ਤਾਂ ਤੁਹਾਨੂੰ call ਕੀਤਾ ਜੀ।
+SPEAKER_00: ਅੱਛਾ ਜੀ ਕਿਸੇ ਹੋਰ ਨੇ ਕਰਵਾਉਣਾ ਹੈ sir?
+SPEAKER_01: ਹਾਂਜੀ ਹਾਂਜੀ system ਵੀ ਨਹੀਂ ਕਰਾਉਣਾ ਮੈਂ ਤਾਂ।
+SPEAKER_00: Sir
+SPEAKER_00: ਠੀਕ ਹੈ ਜੀ ਕੋਈ ਗੱਲ ਨਹੀਂ Sir ਤੁਸੀਂ ਜਾਂ ਤਾਂ Sister ਨੂੰ ਮੇਰਾ number share ਕਰ ਦਿਓ ਜਾਂ ਮੈਨੂੰ ਆਪਣੇ Sister ਦਾ number ਦੇ ਦਿਓ Sir so that ਉਹਨਾਂ ਨਾਲ ਮੈਂ ਗੱਲ ਕਰਕੇ ਜੋ ਵੀ ਉਹਨਾਂ ਦੇ concern ਹੈ ਉਹਨਾਂ ਨੂੰ ਦੱਸ ਕੇ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਫਿਰ appointment fix ਕਰ ਦਿੰਦੀ ਹਾਂ Sir.
+SPEAKER_01: ਉਹ ਕਿੰਨੇ ਪੈਸੇ ਲੱਗਦੇ total ਆਪਣੇ?
+SPEAKER_00: Sir ਸਾਡੀ consultation ₹1000 ਹੀ ਹੁੰਦੀ ਹੈ। Only one time consultation ਹੈ ਜਦੋਂ ਤੁਸੀਂ first time ਇੱਥੇ ਆਓਗੇ, ਠੀਕ ਹੈ Sir। ਤੁਸੀਂ ਆ ਕੇ ਪਹਿਲਾਂ doctor ਨਾਲ consult ਕਰੋਗੇ, ਆਪਣੀ skin analyze ਕਰਵਾਓਗੇ, ਠੀਕ ਹੈ, ਕੀ problem ਹੈ, ਕੀ treatment ਜੋ ਆਏਗਾ, ਕੀ ਉਹਨਾਂ ਲਈ best ਹੋਏਗਾ, ਉਹ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ doctor ਦੱਸਦੇ ਨੇ Sir ਉਹਦੇ ਵਿੱਚ।
+SPEAKER_01: Petrol
+SPEAKER_01: ਕੀ
+SPEAKER_01: Okay
+SPEAKER_00: ਠੀਕ ਹੈ, next time ਤੁਸੀਂ ਆਓਗੇ ਤਾਂ ਕੋਈ consultation ਨਹੀਂ ਹੁੰਦੀ। ਬਾਕੀ sir ਇਹਦੇ ਲਈ ਸਾਡੇ ਕੋਲ ਨਾ multiple solution ਰਹਿੰਦੇ ਆ ਜਿਹੜੀਆਂ ਛਾਈਆਂ ਹੁੰਦੀਆਂ ਨੇ। ਅਲੱਗ ਅਲੱਗ ਤਰ੍ਹਾਂ ਦੇ treatments ਹੁੰਦੇ ਆ sir, ਜੋ ਵੀ best ਹੋਏਗਾ doctor face to face ਦੇਖ ਕੇ guide ਕਰਦੇ ਨੇ। ਠੀਕ ਹੈ। ਫਿਰ ਵੀ ਮੈਂ 1 idea ਦੇ ਦਿੰਦੀ ਆ sir। ਹਾਂਜੀ।
+SPEAKER_01: Exercise
+SPEAKER_01: ਫਿਰ ਮੈਂ ਇੱਕ
+SPEAKER_01: ਦੇ ਦਿੰਨੀ ਆ Sir
+SPEAKER_01: ਹਾਂਜੀ। booking ਲਈ ਮੈਂ ਉਹਦੇ pay ਕਰਨੇ ਪੈਣੇ ਨੇ।
+SPEAKER_00: ਨਹੀਂ sir booking ਦੀ ਕੋਈ amount ਨਹੀਂ ਹੁੰਦੀ ਗੀ। ਹਾਂਜੀ ਤੁਸੀਂ ਆਪਣਾ package ਵਗੈਰਾ book ਕਰਦੇ ਹੋ। package ਨਹੀਂ ਹੁੰਦੀ ਆ sir।
+SPEAKER_01: package ਵਗੈਰਾ book ਕਰ
+SPEAKER_01: Okay
+SPEAKER_00: ਠੀਕ ਹੈ ਜਿੱਦਾਂ ਸਾਡਾ ਅੱਜ ਅੱਛਾ offer ਚੱਲ ਰਿਹਾ ਹੈ sir ਜਿਵੇਂ 2000 ਦੀ booking ਹੁੰਦੀ ਆ ਅੱਜ ਸਾਡਾ ਇੱਕ offer ਚੱਲ ਰਿਹਾ sir customize treatment ਦੇ ਉੱਪਰ ਠੀਕ ਹੈ ਜੀ ਜੇ ਤੁਸੀਂ ਉਹ book ਕਰਕੇ ਆਉਂਦੇ ਆ ₹2000 ਦੇ ਵਿੱਚ ਉਹ 2000 adjustable amount ਹੋਏਗੀ ਤੁਹਾਡੀ clinic ਦੇ ਉੱਪਰ ਲੇਕਿਨ ਉਹ ਤੁਹਾਨੂੰ discount ਚ package ਮਿਲ ਜਾਏਗਾ ਸਾਰਾ
+SPEAKER_01: ਅੱਛਾ
+SPEAKER_01: Okay
+SPEAKER_01: Okay
+SPEAKER_01: Okay
+SPEAKER_01: Okay
+SPEAKER_00: ਜਿਵੇਂ ਸਾਡੇ most of discount ਨਹੀਂ ਚੱਲਦੇ sir ਜਿਵੇਂ ਅੱਜ ਚੱਲ ਰਿਹਾ ਵਾ। ਤੁਸੀਂ ਚਾਹੇ 2 ਦਿਨ ਬਾਅਦ ਆਉਣਾ ਚਾਹੇ ਤੁਸੀਂ ਕੱਲ੍ਹ ਆਉਣਾ ਹੈਨਾ ਕਿਉਂਕਿ ਅੱਜ ਤਾਂ ਹੁਣ possible ਨਹੀਂ ਹੋਏਗਾ I think।
+SPEAKER_01: ਹਾਂਜੀ ਹਾਂਜੀ ਹਾਂਜੀ।
+SPEAKER_00: ਹੈ ਨਾ ਤੇ ਉਹ ਫਿਰ ਉਹਦੇ according ਸਰ ਤੁਸੀਂ ਆਪਣਾ package ਜੇ book ਕਰਕੇ ਆਓਗੇ ਨਾ ਤੁਹਾਨੂੰ ਉਸੇ discount ਚ ਮਿਲੇਗਾ for example ਕੱਲ੍ਹ ਕੋਈ discount ਨਹੀਂ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਉਸੇ discount ਚ ਮਿਲੇਗਾ but
+SPEAKER_01: Sir ਤੁਸੀਂ
+SPEAKER_00: ਠੀਕ ਹੈ।
+SPEAKER_01: Okay ਮੈਂ ਤੁਹਾਨੂੰ ਕਰਦਾ call ਦੀ ਪਤਾ ਕਰਕੇ ਦੱਸ ਦਿੰਦਾ।
+SPEAKER_00: ਠੀਕ ਹੈ Sir, ਤਾਂ ਮੈਂ ਤੁਹਾਨੂੰ ਇਸ ਨੰਬਰ 'ਤੇ Sir WhatsApp ਕਰ ਦਿੰਦੀ ਹਾਂ ਤੁਹਾਡੇ 'ਤੇ। ਤੁਸੀਂ ਇੱਕ ਵਾਰ ਚੈੱਕ ਕਰ ਲੈਣਾ ਤੇ ਜਿੰਨਾ ਜਲਦੀ ਹੋ ਸਕੇ ਫਿਰ ਮੈਨੂੰ ਦੱਸਣਾ Sir, ਅਪੋਆਇੰਟਮੈਂਟ ਫਿਕਸ ਕਰ ਦਾਂਗੀ ਤੁਹਾਡੀ, ਠੀਕ ਹੈ।
+SPEAKER_01: Okay Ma'am
+SPEAKER_00: ਠੀਕ ਹੈ ਜੀ Thank you so much Sir.
